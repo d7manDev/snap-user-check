@@ -1,5 +1,11 @@
 # Snapchat Username Checker 👻
 
+
+
+
+https://github.com/user-attachments/assets/c00b7506-9b5d-42fd-bb44-2a3c681c77d1
+
+
 ---
 
 snap-check is a fast bash script to check snapchat Username
